@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="control-plotly",
-    version="0.1.0",
+    version="0.1.1",
     description="A plotting library for the analysis of continuous and discrete time systems",
     long_description=README,
     long_description_content_type="text/markdown",
